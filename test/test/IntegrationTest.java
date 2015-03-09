@@ -26,6 +26,9 @@ public class IntegrationTest {
         browser.goTo("http://localhost:3333");
         assertThat(browser.pageSource()).contains("History");
 
+        browser.goTo("http://localhost:3333");
+        assertThat(browser.pageSource()).contains("Internet");
+
       }
     });
   }

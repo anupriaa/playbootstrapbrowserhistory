@@ -31,6 +31,8 @@ public class ApplicationTest {
     Content html = views.html.Index.render("Welcome to the home page.");
     assertThat(contentType(html)).isEqualTo("text/html");
     assertThat(contentAsString(html)).contains("history");
+    assertThat(contentAsString(html)).contains("1990");
+
   }
 
 

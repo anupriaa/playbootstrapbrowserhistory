@@ -28,8 +28,8 @@
           <value>
             <ProjectSettingsEntry>
               <option name="version" value="2.3.7" />
-              <option name="sourceDir" value="C:\Users\Anupriya\Desktop\spring\613\WODs\playbootstrapbrowserhistory\conf" />
-              <option name="confDir" value="C:\Users\Anupriya\Desktop\spring\613\WODs\playbootstrapbrowserhistory\app" />
+              <option name="sourceDir" value="C:\Users\Anupriya\Desktop\spring\613\WODs\playbootstrapbrowserhistory\app" />
+              <option name="confDir" value="C:\Users\Anupriya\Desktop\spring\613\WODs\playbootstrapbrowserhistory\conf" />
               <option name="routesImports">
                 <list>
                   <option value="controllers.Assets.Asset" />
